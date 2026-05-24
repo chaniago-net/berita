@@ -1,0 +1,8 @@
+{
+  "name": "Portal & Lab Jurnalistik UNUGIRI Terkini",
+  "description": "Lab jurnalistik mahasiswa terintegrasi untuk menyelaraskan draft reporter sesuai ejaan EYD/PUEBI menggunakan Gemini AI, dilengkapi simulator cropping dan foto tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
